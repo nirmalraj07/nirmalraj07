@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nirmalraj%20Dhanapal&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=%E2%9A%A1%20Python%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast%20%E2%9A%A1&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Nirmalraj%20Dhanapal&amp;fontSize=52&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=%E2%9A%A1%20Python%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast%20%E2%9A%A1&amp;descAlignY=62&amp;descSize=18" width="100%"/>
 </div>
 
 <div align="center">
@@ -124,10 +124,10 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/nirmalraj07">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=nirmalraj07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=12&ring_color=70a5fd"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=nirmalraj07&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=12&amp;ring_color=70a5fd"/>
 </a>
 <a href="https://github.com/nirmalraj07">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalraj07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=12"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalraj07&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=12"/>
 </a>
 
 </div>
@@ -361,9 +361,9 @@ ML model predicting sales trends via feature engineering, EDA & actionable visua
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║    Build ⚙️    Break 💥    Learn 📚    Repeat 🚀          ║
+║    Build ⚙️    Break 💥    Learn 📚    Repeat 🚀       ║
 ║                                                          ║
-║  "The best way to predict the future is to build it."   ║
+║  "The best way to predict the future is to build it."    ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -373,5 +373,5 @@ ML model predicting sales trends via feature engineering, EDA & actionable visua
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling&text=Thanks%20for%20visiting!&fontSize=22&fontColor=fff&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=140&amp;section=footer&amp;animation=twinkling&amp;text=Thanks%20for%20visiting!&amp;fontSize=22&amp;fontColor=fff&amp;fontAlignY=68" width="100%"/>
 </div>
