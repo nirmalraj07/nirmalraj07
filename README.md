@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nirmalraj07&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Nirmalraj%20Dhanapal&amp;fontSize=52&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=%E2%9A%A1%20Python%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast%20%E2%9A%A1&amp;descAlignY=62&amp;descSize=18" width="100%"/>
 </div>
 
 <div align="center">
