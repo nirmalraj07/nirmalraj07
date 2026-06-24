@@ -43,19 +43,19 @@ class NirmalrajDhanapal:
         ]
 
         self.learning = [
-            "System Design &amp; Microservices",
-            "Deep Learning &amp; LLM Fine-Tuning",
+            "System Design and Microservices",
+            "Deep Learning and LLM Fine-Tuning",
             "AWS / GCP / Docker / CI-CD",
         ]
 
         self.fun_fact = "I debug faster with lo-fi music"
 
-    def motto(self) -> str:
+    def motto(self):
         return "Build. Break. Learn. Repeat."
 
 me = NirmalrajDhanapal()
 print(me.motto())
-# >> Build. Break. Learn. Repeat.
+# Output: Build. Break. Learn. Repeat.
 ```
 
 <br clear="right"/>
